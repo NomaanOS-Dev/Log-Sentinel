@@ -1,6 +1,6 @@
 # 🛡️ Log-Sentinel
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://log-sentinel.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nomaanos-log-sentinel.streamlit.app/)
 
 An **AI-Powered Security Log & SIEM Anomaly Threat Analyzer** engineered to parse server access, authentication, and firewall logs to detect active cyber threats and generate automated incident response reports.
 
